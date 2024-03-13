@@ -1,0 +1,73 @@
+*::-webkit-scrollbar{
+  display: none;
+}
+.navbar{
+  padding: 0 !important;
+}
+.navbar h5{
+  margin-bottom: 0;
+}
+.banner{
+  background: linear-gradient(rgba(25, 24, 25, 0.5), rgba(31, 30, 31, 0.5)), url(./images/banner.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.banner h1{
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-size: 600%;
+  color: yellow;
+}
+.banner h3{
+  font-family: "Kalnia", serif;
+  font-size: 300%;
+}
+.hh{
+  min-height: 100vh;
+}
+.hh h2{
+  font-family: "Kalnia", serif;
+  font-size: 300%;
+}
+.he h2{
+  font-family: "Kalnia", serif;
+  font-size: 300%;
+}
+.yel{
+  color: yellow;
+}
+.cc{
+  color: aqua;
+}
+.crd:hover{
+  box-shadow: 0 3px 10px rgba(229, 255, 58, 0.954);
+}
+.his h2{
+  font-family: "Kalnia", serif;
+  font-size: 300%;
+}
+th{
+  color: yellow !important;
+}
+td{
+  color: white !important;
+}
+.hmh{
+  text-decoration: none !important;
+  color: white !important;
+}
+.hmh:hover{
+  color: yellow !important;
+}
+.fh{
+  font-family: "Kalnia", serif;
+}
+.po{
+  padding-right: 30%;
+  cursor: pointer;
+}
+.pop{
+  cursor: pointer;
+}

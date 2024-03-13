@@ -1,0 +1,1 @@
+export const SERVER_URL="https://recipe-server-xpe9.onrender.com"
